@@ -12,7 +12,7 @@ To start the program, please follow the instructions step by step.
 * Utilize the codebase of four-channel MedSAM networks to generate corresponding segmentation results.
 * Calculate the evaluation metrics and analyse statistical results.
 ## Architecture of the Model
-![image](https://github.com/user-attachments/assets/62a55033-cdac-4d1a-8050-fa45733ea7bd)
+![image](https://github.com/user-attachments/assets/6b742c46-7fb1-4707-9c4c-405a1cdfc1a9)
 ## Samples of Segmentation Results
 ![image](https://github.com/user-attachments/assets/0111e04b-e0da-4bc6-89be-70820c688821)
 
