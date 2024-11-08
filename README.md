@@ -15,7 +15,7 @@ To start the program, please follow the instructions step by step.
 <img width="525" alt="截屏2024-11-07 11 26 47" src="https://github.com/user-attachments/assets/b2805636-c66c-4aa6-bd70-70c3b8b14805">
 
 ## Samples of Segmentation Results
-![image](https://github.com/user-attachments/assets/26ae5784-9476-4742-a2fb-f8f8689a2c07)
+![image](https://github.com/user-attachments/assets/c8cffec2-db33-439a-8798-7f5d859eae15)
 
 
 
