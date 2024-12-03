@@ -3,5 +3,5 @@
 - The implemented code is based on GitHub at [bowang-lab/MedSAM](https://github.com/bowang-lab/MedSAM).
 - We have adapted and expanded upon it to meet the specific requirements of our implementation, and the extension code is in the folder - "rectal_cancer_expansion".
 - Collected MRI images from the four examined modalities underwent comprehensive pre-processing steps, including outlier exclusion (0.5th and 99.5th percentiles), data clipping, normalization, and zero value preservation. Subsequently, all pre-processed images were uniformly resized to 1024×1024 pixels. We proposed a novel two-stage hybrid model that integrates a large segmentation model with the XGBoost algorithm.  The segmentation module was constructed using four-channel MedSAM networks. Each channel architecture included an image encoder, an image embedding module, a prompt encoder, and a mask decoder. Given the varying shapes and segmentation challenges of rectal cancer lesions, bounding box prompts were primarily utilized. Thus, both pre-nCRT and post-nCRT MRI images were directly input into MedSAM to generate corresponding segmentation results: Seg1, Seg2, Seg3, Seg4.
-![image](https://github.com/user-attachments/assets/e290d355-3c8a-48c8-b648-af732515a809)
+![image](https://github.com/user-attachments/assets/d3d9aee5-7ee2-4ff4-8e70-194c55313345)
 
