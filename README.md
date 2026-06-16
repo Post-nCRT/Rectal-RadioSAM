@@ -1,6 +1,7 @@
 # Rectal-RadioSAM
 Rectal-RadioSAM: Large Model-Assisted Multi-Parametric MRI Pipeline for Predicting Response to Neoadjuvant Chemoradiotherapy in Rectal Cancer via No Human Intervention
-# Rectal-RadioSAM
+## News
+Our paper was published in Physics and imaging in radiation oncology (JCR Q1), with an oral presentation at RSNA 2024!
 ## Brief Description
 This repository include a program of a multi-parametric MRI-based and large model-assisted automated prediction tool for assessing response to neoadjuvant chemoradiotherapy (nCRT) in rectal cancer.
 ## How to Execute the Program
@@ -16,7 +17,17 @@ To start the program, please follow the instructions step by step.
 
 ## Samples of Segmentation Results
 ![image](https://github.com/user-attachments/assets/73612450-6e0b-4222-af38-77c1d36bd4df)
+## Citation
 
+  @article{xia2025rectal,
+    title={Rectal-RadioSAM: large model-assisted multi-parametric magnetic resonance imaging pipeline for predicting response to neoadjuvant chemoradiotherapy in rectal cancer without human intervention},
+    author={Xia, Shao-Jun and Wang, Zhi-Nan and Wu, Jia-Qi and Li, Qing-Yang and Shi, Yan-Jie and Li, Xiao-Ting and Zhang, Xiao-Yan and Sun, Ying-Shi},
+    journal={Physics and imaging in radiation oncology},
+    volume={35},
+    pages={100797},
+    year={2025},
+    publisher={Elsevier}
+  }
 
 
 
