@@ -18,7 +18,7 @@ To start the program, please follow the instructions step by step.
 ## Samples of Segmentation Results
 ![image](https://github.com/user-attachments/assets/73612450-6e0b-4222-af38-77c1d36bd4df)
 ## Citation
-
+```bibtex
   @article{xia2025rectal,
     title={Rectal-RadioSAM: large model-assisted multi-parametric magnetic resonance imaging pipeline for predicting response to neoadjuvant chemoradiotherapy in rectal cancer without human intervention},
     author={Xia, Shao-Jun and Wang, Zhi-Nan and Wu, Jia-Qi and Li, Qing-Yang and Shi, Yan-Jie and Li, Xiao-Ting and Zhang, Xiao-Yan and Sun, Ying-Shi},
@@ -28,7 +28,7 @@ To start the program, please follow the instructions step by step.
     year={2025},
     publisher={Elsevier}
   }
-
+```
 
 
 
